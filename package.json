@@ -1,0 +1,19 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "CLI to search OMDB, Spotify, and recent tweets",
+  "main": "liri.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamCannon/liri-node-app.git"
+  },
+  "author": "Sam Cannon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamCannon/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/SamCannon/liri-node-app#readme"
+}
